@@ -1,0 +1,3 @@
+# Codecademy-Projects
+
+This is a random assortment of Codecademy projects that I have worked through, most of which are from the Data Science path.  I'm uploading these piecemeal to Github as I go through them and clean/improve the code.  This repo will only contain intermediate to advanced projects (by Codecademy standards) and will be primarily for my own records and to reference in posts/projects on my blog.  All code is my own, though prompts and project structure are from Codecademy.  
